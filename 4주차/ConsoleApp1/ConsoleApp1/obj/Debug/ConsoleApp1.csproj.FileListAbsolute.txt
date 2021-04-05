@@ -1,0 +1,7 @@
+E:\Academy\4주차\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Academy\4주차\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Academy\4주차\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Academy\4주차\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\Academy\4주차\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Academy\4주차\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Academy\4주차\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
